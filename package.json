@@ -13,8 +13,6 @@
     "author": "Hugo Lachkar",
     "license": "Apache-2.0",
     "dependencies": {
-        "cordova-android": "^8.1.0",
-        "cordova-ios": "^5.1.1",
         "cordova-plugin-inappbrowser": "^4.0.0"
     },
     "devDependencies": {
@@ -25,9 +23,6 @@
             "cordova-plugin-whitelist": {},
             "cordova-plugin-inappbrowser": {}
         },
-        "platforms": [
-            "ios",
-            "android"
-        ]
+        "platforms": []
     }
 }
