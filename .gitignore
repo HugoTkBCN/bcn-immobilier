@@ -2,5 +2,3 @@ platforms
 node_modules
 plugins/android.json
 plugins/ios.json
-package.json
-package-lock.json
