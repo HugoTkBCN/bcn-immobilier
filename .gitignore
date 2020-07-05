@@ -1,4 +1,4 @@
-./platforms/*
-./node_modules/*
-./plugins/android.json
-./plugins/ios.json
+platforms
+node_modules
+plugins/android.json
+plugins/ios.json
